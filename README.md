@@ -14,6 +14,8 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Consistent/Agnostic Learners, Shattering, and Sample Complexity bounds.
 3. **[03. Linear Algebra & Geometry](./03_linear_algebra_and_geometry.ipynb)**
    * Vector Spaces, Eigendecomposition, and the Spectral Theorem applied to data.
+6. **[06. Linear Regression](./06_linear_regression.ipynb)**
+   * Linear Regression, Polynomial Regression, Ridge Regression.
 
 ---
 *⏳ Next Chapters Coming Soon!*
