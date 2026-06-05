@@ -4,7 +4,7 @@
 Welcome to my Machine Learning repository! I am a B.Sc. student in Mathematics for Artificial Intelligence at Sapienza University.
 
 ### 🌟 The Vision
-The core purpose of this project is to demonstrate how something as abstract and imaginative as mathematics serves as the absolute foundation for the most powerful and widely used learning tools of our time. Instead of treating algorithms as black boxes, these notebooks explore the underlying geometry, linear algebra, and statistical learning theory, bridging the gap between rigorous theory and clean NumPy implementations.
+The core purpose of this project is to demonstrate how something as abstract and imaginative as mathematics serves as the absolute foundation for the most powerful and widely used learning tools of our time. Instead of treating algorithms as black boxes, these notebooks explore the underlying geometry, linear algebra, probability and statistical learning theory and calculus bridging the gap between rigorous theory and clean NumPy implementations.
 
 ## 📚 Contents
 
