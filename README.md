@@ -14,18 +14,30 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Consistent/Agnostic Learners, Shattering, and Sample Complexity bounds.
 3. **[03. Linear Algebra & Geometry](./03_linear_algebra_and_geometry.ipynb)**
    * Vector Spaces, Eigendecomposition, and the Spectral Theorem applied to data.
+4. *04. PCA — in progress*
+5. *05. Gaussian Mixture Models — in progress*
 6. **[06. Linear Regression](./06_linear_regression.ipynb)**
    * Linear Regression, Polynomial Regression, Ridge Regression.
 7. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
    * Sigmoid Link, Maximum Likelihood, Newton-Raphson/IRLS, Softmax Regression, Generative vs. Discriminative Classifiers.
 
 ---
-*⏳ Next Chapters Coming Soon!*
+*⏳ Next up: 08. Support Vector Machines & the Kernel Trick*
+
+## ⚙️ Setup
+```bash
+pip install -r requirements.txt
+```
+Each notebook is meant to be run top to bottom (`Restart Kernel & Run All`) so the committed outputs always match the code.
 
 ## 🛠️ Tools & Libraries
 * **Python 3**
 * **NumPy** (Heavy focus on vectorized mathematical operations)
-* **Matplotlib & Seaborn** (Geometric and statistical visualizations)
+* **Matplotlib** (Geometric and statistical visualizations)
+* **SciPy & scikit-learn** (statistical distributions, baseline models for comparison)
+
+## 📄 License
+[MIT](./LICENSE) — feel free to learn from, fork, or reuse any of this.
 
 ---
 *Created by Matteo Guerrucci*
