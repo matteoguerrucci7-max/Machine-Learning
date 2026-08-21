@@ -16,6 +16,8 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Vector Spaces, Eigendecomposition, and the Spectral Theorem applied to data.
 6. **[06. Linear Regression](./06_linear_regression.ipynb)**
    * Linear Regression, Polynomial Regression, Ridge Regression.
+7. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
+   * Sigmoid Link, Maximum Likelihood, Newton-Raphson/IRLS, Softmax Regression, Generative vs. Discriminative Classifiers.
 
 ---
 *⏳ Next Chapters Coming Soon!*
