@@ -16,7 +16,7 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Vector Spaces, Eigendecomposition, and the Spectral Theorem applied to data.
 4. *04. PCA — in progress*
 5. **[05. Gaussian Mixture Models]*(./05_gaussian_mixture_models.ipnynb)**
-    * clustering, gaussian mixture models.
+    * clustering, gaussian mixture models-
 7. **[06. Linear Regression](./06_linear_regression.ipynb)**
    * Linear Regression, Polynomial Regression, Ridge Regression.
 8. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
