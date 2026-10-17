@@ -22,6 +22,8 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Linear Regression, Polynomial Regression, Ridge Regression.
 8. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
    * Sigmoid Link, Maximum Likelihood, Newton-Raphson/IRLS, Softmax Regression, Generative vs. Discriminative Classifiers.
+9. **[08. SVM Kernel Methods](./08_svm_and_kernel_methods.ipynb)**
+    
 
 ---
 *⏳ Next up: 08. Support Vector Machines & the Kernel Trick*
