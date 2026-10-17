@@ -26,7 +26,7 @@ The core purpose of this project is to demonstrate how something as abstract and
     
 
 ---
-*⏳ Next up: 08. Support Vector Machines & the Kernel Trick*
+*⏳ Next up: 09 Validation Models
 
 ## ⚙️ Setup
 ```bash
