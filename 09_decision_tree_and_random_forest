@@ -1,7 +1,9 @@
 # the scheme 
 #1 introcuction 
+Decision tree is a predictor h : ${X}->{Y}$ that predicts the label associated with an instance x by travelling from a root node of a tree 
 # how mathematically is correct 
 # show an instances 
 # application 
 #move to rabndom forest 
 #math around it 
+# sarebbe meglio partire da Multi class boosting algorithm 
