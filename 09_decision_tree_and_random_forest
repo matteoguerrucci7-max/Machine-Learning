@@ -2,3 +2,4 @@
 Multi class boosting from FOUNDATION of machine learning 
 SO we have a Hyphothesis set H and F in objective function defined for all Sample S {€} (X x Y)^N and alfa is a vector the interpert of the funciont F 
 FISRT REMARK coincides exactly with the application of coordinate descent to the objective function F 
+REMEMBER this we use an exponential loss due is upper bound for zero one loss 
