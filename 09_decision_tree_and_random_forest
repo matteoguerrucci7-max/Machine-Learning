@@ -4,3 +4,5 @@ SO we have a Hyphothesis set H and F in objective function defined for all Sampl
 FISRT REMARK coincides exactly with the application of coordinate descent to the objective function F 
 REMEMBER this we use an exponential loss due is upper bound for zero one loss 
 we define on porpuse for very t in T a Distribution over the indices {1,...,m}n
+More Dive an instance in Statisical learning 
+
