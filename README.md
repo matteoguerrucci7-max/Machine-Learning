@@ -4,7 +4,7 @@
 Welcome to my Machine Learning repository! 
 
 ### 🌟 The Vision
-The core purpose of this project is to demonstrate how something as abstract and imaginative as mathematics serves as the absolute foundation for the most powerful and widely used learning tools of our time. Instead of treating algorithms as black boxes, these notebooks explore the underlying geometry, linear algebra, probability and statistical learning theory and calculus bridging the gap between rigorous theory and clean NumPy implementations.
+The core purpose of this project is to demonstrate how something as abstract and imaginative as mathematics serves as the absolute foundation for the most powerful and widely used learning tools of our time. Instead of treating algorithms as black boxes, these notebooks explore the underlying geometry, linear algebra, probability, statistical learning theory and calculus, bridging the gap between rigorous theory and clean NumPy implementations.
 
 ## 📚 Contents
 
@@ -16,17 +16,17 @@ The core purpose of this project is to demonstrate how something as abstract and
    * Vector Spaces, Eigendecomposition, and the Spectral Theorem applied to data.
 4. **[04. PCA](./04_pca.ipynb)**
    * Principal Component Analysis and Probabilistic PCA 
-6. **[05. Gaussian Mixture Models](./05_gaussian_mixture_models.ipynb)**
+5. **[05. Gaussian Mixture Models](./05_gaussian_mixture_models.ipynb)**
     * Clustering, Gaussian Mixture Models
-7. **[06. Linear Regression](./06_linear_regression.ipynb)**
+6. **[06. Linear Regression](./06_linear_regression.ipynb)**
    * Linear Regression, Polynomial Regression, Ridge Regression.
-8. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
+7. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
    * Sigmoid Link, Maximum Likelihood, Newton-Raphson/IRLS, Softmax Regression, Generative vs. Discriminative Classifiers.
-9. **[08. SVM Kernel Methods](./08_svm_and_kernel_methods.ipynb)**
+8. **[08. SVM Kernel Methods](./08_svm_and_kernel_methods.ipynb)**
     * KKT conditions, SVM, Kernel Methods, Gaussian Kernel 
 
 ---
-*⏳ Next up: 09 Decision Tree Random Forest 
+*⏳ In progress: [09. Decision Trees & Random Forest](./09_decision_tree_and_random_forest), then model validation.* 
 
 ## ⚙️ Setup
 ```bash
