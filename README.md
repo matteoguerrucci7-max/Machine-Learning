@@ -26,7 +26,7 @@ The core purpose of this project is to demonstrate how something as abstract and
     * KKT conditions, SVM, Kernel Methods, Gaussian Kernel 
 
 ---
-*⏳ In progress: [09. Decision Trees & Random Forest](./09_decision_tree_and_random_forest), then model validation.* 
+*⏳ In progress: [10. Model Validation](./10_model_validation) 
 
 ## ⚙️ Setup
 ```bash
