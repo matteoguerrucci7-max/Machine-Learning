@@ -23,10 +23,12 @@ The core purpose of this project is to demonstrate how something as abstract and
 7. **[07. Logistic Regression](./07_logistic_regression.ipynb)**
    * Sigmoid Link, Maximum Likelihood, Newton-Raphson/IRLS, Softmax Regression, Generative vs. Discriminative Classifiers.
 8. **[08. SVM Kernel Methods](./08_svm_and_kernel_methods.ipynb)**
-    * KKT conditions, SVM, Kernel Methods, Gaussian Kernel 
+    * KKT conditions, SVM, Kernel Methods, Gaussian Kernel
+9. **[09. Decision Trees Rabndom Forest Boosting](./09_decision_trees_random_forest_boosting.ipynb)**
+    * decision trees, 
 
 ---
-*⏳ In progress: [09. Decision Trees & Random Forest](./09_decision_tree_and_random_forest), then model validation.* 
+*⏳ In progress: [10. Model Validation](./10_model_validation) 
 
 ## ⚙️ Setup
 ```bash
