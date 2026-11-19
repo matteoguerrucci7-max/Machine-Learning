@@ -26,6 +26,8 @@ The core purpose of this project is to demonstrate how something as abstract and
     * KKT conditions, SVM, Kernel Methods, Gaussian Kernel
 9. **[09. Decision Trees Random Forest Boosting](./09_decision_trees_random_forest_boosting.ipynb)**
     * Decision Trees, Random Forest, Boosting, Gradient Boosting, XG Boosting
+10. **[10. Model Validation](./10_models_and_validations.ipynb)**
+    * The Test Set is used ONCE
 
 ---
 *⏳ In progress: [10. Model Validation](./10_model_validation) 
