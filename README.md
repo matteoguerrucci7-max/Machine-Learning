@@ -29,7 +29,6 @@ The core purpose of this project is to demonstrate how something as abstract and
 10. **[10. Model Validation](./10_models_and_validations.ipynb)**
     * The Test Set is used ONCE
 
----
 
 ## ⚙️ Setup
 ```bash
