@@ -30,7 +30,6 @@ The core purpose of this project is to demonstrate how something as abstract and
     * The Test Set is used ONCE
 
 ---
-*⏳ In progress: [10. Model Validation](./10_model_validation) 
 
 ## ⚙️ Setup
 ```bash
